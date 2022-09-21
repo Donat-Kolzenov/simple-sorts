@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "bubblesort.h": "c",
+    "sortspack.h": "c",
+    "stdio.h": "c",
+    "selectionsort.h": "c",
+    "cocktailsort.h": "c",
+    "insertionsort.h": "c",
+    "insertionsortv1.h": "c",
+    "insertionsortv2.h": "c",
+    "bubblesortv1.h": "c"
+  }
+}
